@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A beautiful, persistent, and feature-rich To-Do List application built with Material Design 3 and Room database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
